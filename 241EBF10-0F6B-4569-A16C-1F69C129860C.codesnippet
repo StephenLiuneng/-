@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sfatt</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSAttributedString.gxAttributeString(with: NSString.gxLocalizedString(&lt;#T##key: String!##String!#&gt;), font: UIFont.init(name: &lt;#T##String#&gt;, size: &lt;#T##CGFloat#&gt;), color: &lt;#T##UIColor!#&gt;, spacing: &lt;#T##CGFloat#&gt;, lineSpacing: &lt;#T##CGFloat#&gt;, alignment: &lt;#T##NSTextAlignment#&gt;)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>241EBF10-0F6B-4569-A16C-1F69C129860C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>富文本</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
